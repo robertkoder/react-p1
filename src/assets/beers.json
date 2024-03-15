@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Pilsner",
+      "origin": "Tsjekkia",
+      "description": "Lys og frisk med moderat bitterhet."
+    },
+    {
+      "id": 2,
+      "name": "India Pale Ale (IPA)",
+      "origin": "England",
+      "description": "Sterkt humlet, med noter av sitrus og furu."
+    },
+    {
+      "id": 3,
+      "name": "Stout",
+      "origin": "England",
+      "description": "Mørk, rik på smak av røstet malt, kaffe og sjokolade."
+    },
+    {
+      "id": 4,
+      "name": "Porter",
+      "origin": "England",
+      "description": "Mørk og kompleks med en balansert bitterhet."
+    },
+    {
+      "id": 5,
+      "name": "Saison",
+      "origin": "Belgia",
+      "description": "Fruktig og krydret, ofte med høy karbonering."
+    },
+    {
+      "id": 6,
+      "name": "Weissbier",
+      "origin": "Tyskland",
+      "description": "Lys og uklar, med smak av banan og nellik."
+    },
+    {
+      "id": 7,
+      "name": "Lambic",
+      "origin": "Belgia",
+      "description": "Syrlig og ofte fruktig, gjæret med villgjær."
+    },
+    {
+      "id": 8,
+      "name": "Bock",
+      "origin": "Tyskland",
+      "description": "Sterk lager, malt-dominert med lite humlebitterhet."
+    },
+    {
+      "id": 9,
+      "name": "Pale Ale",
+      "origin": "England",
+      "description": "Gyllen til kobberfarget, med balansert malt og humle."
+    },
+    {
+      "id": 10,
+      "name": "Barleywine",
+      "origin": "England",
+      "description": "Meget sterk ale, rik på malt og sødme, med fruktige estere."
+    }
+]
